@@ -1,2 +1,10 @@
-# Start Here
-[Presentation Template Here](https://www.canva.com/design/DAEs87Q37gs/S7eAd1k5CtCArxYsS2p7Jg/view?utm_content=DAEs87Q37gs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
+# Robotech 2021 - Hackathon 
+
+## Get started
+
+1. Register your team 
+2. Choose a problem statement
+3. Make a presentation using our template ([Click here](https://www.canva.com/design/DAEs87Q37gs/S7eAd1k5CtCArxYsS2p7Jg/view?utm_content=DAEs87Q37gs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview))
+4. Develop your selected problem statement
+5. Upload the project on GitHub
+6. Present the project in front of a panel of judges
