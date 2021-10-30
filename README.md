@@ -1,6 +1,6 @@
 # Robotech 2021 - Hackathon 🤖
 
-## 🚀 Get started 
+## 🚀 Getting started 
 
 1. Register your team .
 2. Choose a problem statement.
